@@ -1,5 +1,4 @@
-# Vite React Bible — Random & Specific Verse (JSX)
-
+# Bible Verse Explorer
 ## Quick start
 
 1. Unzip the project files into a folder, then navigate into it:
